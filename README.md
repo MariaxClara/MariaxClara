@@ -1,5 +1,5 @@
 ### Hi, I'm Maria Clara 👩🏽‍🎓💻
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<!--Apresentaçao  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. -->
 <!--Habilidades-->
 <ul>
   <li>
@@ -14,7 +14,7 @@
   </ul>
  <br>
 <!--Perfis-->    
-<ul>
+<!-----<ul>
   <li>
 <h3>Perfis Sociais<h4>
   </li>
@@ -28,3 +28,4 @@
     
    
 ![MariaClara's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaxClara&show_icons=true&hide=issues,prs&theme=onedark)
+-->
