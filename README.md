@@ -25,9 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="92px" /> 
   <img src="https://img.icons8.com/color/480/000000/ms-outlook.png" width="95px" />
 </p>
-  </ul>
+  </ul> -->
     <br>
     
-   
 ![MariaClara's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaxClara&show_icons=true&hide=issues,prs&theme=onedark)
--->
+
