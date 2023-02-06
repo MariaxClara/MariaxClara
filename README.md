@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👯 I’m looking to collaborate on <pending ideas\>
+- 👯 I’m looking to collaborate on Software Engineer in Test
 
 - 📫 How to reach me **m.clara.almeida@hotmail.com**
 
