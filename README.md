@@ -1,4 +1,4 @@
-### Hi, I'm Maria Clara 👩🏽‍🎓💻
+### Hi, I'm Maria Clara, QA Engineer 👩🏽‍🎓💻
 
 - 🔭 I’m currently working with Robot Framework, Python, Selenium, Java
 
